@@ -89,7 +89,7 @@
     $(".bs-sidenav ul").addClass("nav nav-list");
     $(".bs-sidenav > ul > li > a").addClass("nav-header");
 
-    {% if theme_navbar_fixed_top|tobool and theme_bootstrap_version == "3" %}
+    
     // back to top
     setTimeout(function () {
       var $sideBar = $(".bs-sidenav");
@@ -119,7 +119,7 @@
         // Trigger to reset if page content is scrolled to bottom.
         .trigger("scroll.bs.affix.data-api");
     }, 0);
-    {% endif %}
+    
 
     // Local TOC.
     patchToc($("ul.localtoc"), 2);
