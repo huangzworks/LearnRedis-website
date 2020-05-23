@@ -136,3 +136,7 @@
 帮助读者了解 Redis 并学会如何使用 Redis 。
 
 关于黄健宏的更多信息可以在他的个人网站\ `huangz.me <http://huangz.me>`_\ 上面找到。
+
+----
+
+*\*书本封面图片来自* `Maarten van den Heuvel <https://unsplash.com/photos/gZXx8lKAb7Y>`_
